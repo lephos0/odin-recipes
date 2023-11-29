@@ -1,0 +1,9 @@
+* {
+    background-color:rgb(163, 156, 90);
+}
+
+img {
+    height: 20rem;
+    width: 20rem;
+    align-items: center;
+}
